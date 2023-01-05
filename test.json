@@ -1,0 +1,11 @@
+{
+    "string" : "string_val",
+    "number" : 3.14159,
+    "true"   : true,
+    "false"  : false,
+    "null"   : null,
+    "array_empty" : [],
+    "array" : [1, 2, [3, 4]],
+    "obj_empty" : {},
+    "obj" : {"obj_member_number" : 1000, "obj_member_obj" : {"obj_nested" : "obj_nested_val"}}
+}
