@@ -2,7 +2,7 @@
 A Lua JSON parser
 
 ## Features
-- Simple and fast.
+- Simple and fast
 - Return the errow message to give the position where the JSON data is wrong
 - The APIs are similar to CJson 
 
